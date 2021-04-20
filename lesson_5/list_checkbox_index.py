@@ -8,6 +8,6 @@ try:
    time.sleep(3)
    select = Select(browser.find_element_by_name('filters[type]'))
    select.select_by_index(1)
-   time.sleep(2)
+   time.sleep(3)
 finally:
    browser.quit()

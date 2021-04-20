@@ -2,16 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0fd62229-6cbf-4c0d-9dba-cca28d64f47c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DZ_5/DZ_5_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_5/checkbox.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_5/checkbox_value.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_5/class_keys.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_5/download_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_5/get_attribute.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_5/list_checkbox_index.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_5/list_checkbox_text.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_5/refresh.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_5/resources/рамси.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DZ_5/DZ_5_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DZ_5/resources/рамси.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DZ_5/DZ_5_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/DZ_5/DZ_5_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_5/checkbox_value.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_5/checkbox_value.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_5/list_checkbox_index.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_5/list_checkbox_index.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +25,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1rAu83TWRa4a2gSdWo1UD9uO1mm" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -43,12 +39,13 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/DZ_5/resources" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/lesson_5" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.refresh">
-    <configuration name="attribute_required" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.DZ_5_2">
+    <configuration name="DZ_5_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="geekSelenium" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -56,11 +53,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DZ_5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_5/attribute_required.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DZ_5/DZ_5_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -69,7 +66,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="checkbox" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="DZ_5_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="geekSelenium" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -77,11 +74,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DZ_5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_5/checkbox.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DZ_5/DZ_5_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -90,7 +87,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="class_keys" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="checkbox_value" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="geekSelenium" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -102,7 +99,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_5/class_keys.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_5/checkbox_value.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.refresh" />
-        <item itemvalue="Python.class_keys" />
+        <item itemvalue="Python.DZ_5_2" />
         <item itemvalue="Python.download_file" />
-        <item itemvalue="Python.checkbox" />
-        <item itemvalue="Python.attribute_required" />
+        <item itemvalue="Python.DZ_5_1" />
+        <item itemvalue="Python.checkbox_value" />
+        <item itemvalue="Python.refresh" />
       </list>
     </recent_temporary>
   </component>
@@ -184,6 +181,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
